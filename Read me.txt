@@ -1,0 +1,28 @@
+Group 15
+Sumit Kumar(2020CSB1130)
+Sumit Kumar(2020CSB1131)
+Vibhav Goriya(2020CSB1139)
+
+TA-Kirandeep Kaur
+
+In this project we aim to demonstrate Ternery Search Tree's implementation using various functions like insertion,traversal,search etc and looking at
+its one of major applications which is autocomplete.
+
+To take input:
+Enter a prefix(preferably 2 letters) to search for a complete suggestion
+ If entered prefix is not matching with prefix of any word present in our directory,then program needs to rerun.
+ 
+
+If entered prefix is matching with prefix of any word present in our directory then
+ As output,program presents a list of suggestions to complete the entered prefix.
+ 
+ 
+ For more clarity please refer this example,
+ for prefix "ind"we get the following suggestions
+ 
+Enter prefix
+ind
+---Suggestions
+indian
+indiana
+
